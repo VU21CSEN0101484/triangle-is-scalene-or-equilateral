@@ -12,3 +12,13 @@ int main(){
    return 0;
 }
 
+
+OUTPUT:
+
+
+Enter sides of triangle:22  
+33
+44
+The given Triangle is scalene
+
+
